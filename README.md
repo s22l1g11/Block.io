@@ -3,6 +3,11 @@ Block.io
 
 Description: A PHP Class for <a href="https://block.io">Block.io</a><br />
 
+To-do:
+<ul>
+<li>Add documentation</li>
+</ul>
+
 Copyright: 2014 <a href="https://block.io">Block.io</a><br />
 License: MIT<br />
 Author: s22l1g11 <a href="mailto:s22l1g11@gmail.com">s22l1g11@gmail.com</a><br />
