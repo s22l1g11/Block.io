@@ -49,7 +49,7 @@ class BlockIO
 			$request_build .= $args;
 		}
 
-        $response = file_get_contents($request_build);
+        $response = @file_get_contents($request_build);
 
         if(!empty($response)) {
             return json_decode($response, true);
